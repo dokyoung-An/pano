@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="19829" appversion="7.0 beta6">
+  <panorama id="node1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="2000" levelingpitch="0" overlap="1" width="2000" levelbiashidpi="1.000" levelingroll="0">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata author="" datetime="" comment="" nodeid="node1" latitude="" copyright="" customnodeid="" source="" title="1" description="" tags="1" longitude="" info="" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="1">
+      <label wordwrap="1" enabled="1" backgroundalpha="1" border="1" borderradius="1" height="20" backgroundcolor="0xffffff" background="1" width="180" textalpha="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot title="2" description="" skinid="ht_node" url="{node2}" tilt="-25.88" target="" id="Point01" pan="-180.55"/>
+      <hotspot title="" description="" skinid="Hotspot 2" url="" tilt="0.89" target="" id="Point02" pan="-236.12"/>
+      <hotspot title="" description="" skinid="ht_url" url="https://velvety-tiramisu-dab603.netlify.app/" tilt="-3.68" target="_blank" id="Point04" pan="-0.83"/>
+    </hotspots>
+    <media>
+      <image rotx="0.130" height="846" tilt="-5.900" stretch="0.910" pan="52.290" roty="-30.660" width="564" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-3.080" fov="3.630" id="Element02">
+        <source url="media/img_09.jpg"/>
+      </image>
+      <image rotx="2.599" height="1920" tilt="-6.585" stretch="0.794" pan="82.382" roty="35.781" width="1280" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="1.347" fov="3.221" id="Element03">
+        <source url="media/img_08.jpg"/>
+      </image>
+      <image rotx="6.677" height="1280" tilt="-3.687" stretch="1.155" pan="62.503" roty="-36.165" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-2.292" fov="5.022" id="Element04">
+        <source url="media/img_07.png"/>
+      </image>
+      <image rotx="2.164" height="1120" tilt="-5.948" stretch="1.302" pan="88.881" roty="-39.658" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-2.870" fov="3.808" id="Element05">
+        <source url="media/img_06.png"/>
+      </image>
+      <image rotx="6.668" height="1920" tilt="-9.821" stretch="0.937" pan="93.121" roty="-21.727" width="1281" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-2.209" fov="2.422" id="Element06">
+        <source url="media/img_05.jpg"/>
+      </image>
+      <image rotx="0.877" height="1120" tilt="-10.507" stretch="1.097" pan="97.932" roty="42.422" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.079" fov="2.317" id="Element07">
+        <source url="media/img_04.png"/>
+      </image>
+      <image rotx="-0.701" height="1120" tilt="-10.840" stretch="1.083" pan="110.665" roty="38.611" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="1.712" fov="3.388" id="Element08">
+        <source url="media/img_03.png"/>
+      </image>
+      <image rotx="-29.091" height="1120" tilt="-6.095" stretch="1.762" pan="114.876" roty="-1.801" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.838" fov="3.312" id="Element09">
+        <source url="media/img_02.png"/>
+      </image>
+      <image rotx="-0.351" height="1120" tilt="-11.407" stretch="1.038" pan="105.471" roty="-43.777" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-2.469" fov="2.640" id="Element10">
+        <source url="media/img_01.png"/>
+      </image>
+      <image rotx="2.051" height="1120" tilt="-6.945" stretch="1.129" pan="121.401" roty="-45.579" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-5.235" fov="3.572" id="Element11">
+        <source url="media/img_00.png"/>
+      </image>
+      <image rotx="15.799" height="1120" tilt="0.459" stretch="0.854" pan="-155.516" roty="-67.809" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.051" fov="9.970" id="Element12">
+        <source url="media/img_00.png"/>
+      </image>
+      <image rotx="16.701" height="1120" tilt="0.377" stretch="1.037" pan="-160.957" roty="-68.945" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.026" fov="6.516" id="Element13">
+        <source url="media/img_01.png"/>
+      </image>
+      <image rotx="16.808" height="1120" tilt="0.440" stretch="1.025" pan="154.323" roty="63.558" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.166" fov="8.318" id="Element14">
+        <source url="media/img_06.png"/>
+      </image>
+      <image rotx="19.694" height="1120" tilt="0.302" stretch="0.890" pan="159.964" roty="71.076" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-3.737" fov="7.680" id="Element15">
+        <source url="media/img_03.png"/>
+      </image>
+      <image rotx="4.076" height="1280" tilt="4.144" stretch="1.141" pan="179.851" roty="-1.078" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.022" fov="8.231" id="Element16">
+        <source url="media/img_07.png"/>
+      </image>
+      <image rotx="1.518" height="1920" tilt="2.156" stretch="0.868" pan="171.382" roty="14.325" width="1281" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.407" fov="4.928" id="Element17">
+        <source url="media/img_05.jpg"/>
+      </image>
+      <image rotx="-2.228" height="1120" tilt="2.121" stretch="1.313" pan="-172.117" roty="-9.049" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.344" fov="4.736" id="Element18">
+        <source url="media/img_02.png"/>
+      </image>
+      <image rotx="7.657" height="1278" tilt="-4.824" stretch="1.959" pan="167.764" roty="35.265" width="1920" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="2.223" fov="1.927" id="Element19">
+        <source url="media/img_09.jpg"/>
+      </image>
+      <image rotx="5.496" height="1120" tilt="-4.882" stretch="0.826" pan="-168.953" roty="-59.680" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-1.940" fov="2.967" id="Element20">
+        <source url="media/img_04.png"/>
+      </image>
+      <image rotx="76.148" height="753" tilt="-14.059" stretch="1.367" pan="178.987" roty="-1.558" width="428" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="2.241" fov="18.388" id="Element21">
+        <source url="media/image.png"/>
+      </image>
+      <image rotx="-10.433" height="980" tilt="-12.727" stretch="1.042" pan="84.375" roty="0.472" width="700" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.765" fov="2.912" id="Element22">
+        <source url="media/image-3.png"/>
+      </image>
+      <image rotx="-6.810" height="753" tilt="-4.150" stretch="1.053" pan="-0.920" roty="-0.730" width="428" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.350" fov="13.280" id="Element02">
+        <source url="media/image-6.png"/>
+      </image>
+      <sound keep="1" loop="0" level="0.500" url="media/skin_snd_13030195_MotionElements_in-the-moment-of.mp3" id="13030195_MotionElements_in-the-moment-of" mode="7"/>
+    </media>
+    <transition blendtime="1" enabled="1" zoomin="0" zoomafteroutfov="40" type="crossdissolve" zoomout="0" softedge="0" delay="none" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" zoomcentercursor="1" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" contextvr="1" contextprojections="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="2000" levelingpitch="0" overlap="1" width="2000" levelbiashidpi="1.000" levelingroll="0">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata author="" datetime="" comment="" nodeid="node2" latitude="" copyright="" customnodeid="" source="" title="2" description="" tags="공간2" longitude="" info="" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="1">
+      <label wordwrap="1" enabled="1" backgroundalpha="1" border="1" borderradius="1" height="20" backgroundcolor="0xffffff" background="1" width="180" textalpha="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot title="3" description="" skinid="ht_node" url="{node3}" tilt="-24.04" target="" id="Point01" pan="-270.63"/>
+      <hotspot title="1" description="" skinid="ht_node" url="{node1}" tilt="-20.74" target="" id="Point02" pan="-89.61"/>
+    </hotspots>
+    <media>
+      <image rotx="-13.660" height="753" tilt="-1.550" stretch="1.072" pan="-90.320" roty="0.590" width="428" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.070" fov="4.980" id="Element01">
+        <source url="media/re-1.png"/>
+      </image>
+      <image rotx="14.730" height="1120" tilt="0.850" stretch="0.957" pan="-158.660" roty="22.570" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-0.030" fov="19.770" id="Element02">
+        <source url="media/img_00.png"/>
+      </image>
+      <image rotx="14.890" height="1120" tilt="0.990" stretch="0.937" pan="163.040" roty="-18.000" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-0.020" fov="20.550" id="Element03">
+        <source url="media/img_01.png"/>
+      </image>
+      <image rotx="14.730" height="1120" tilt="0.770" stretch="0.957" pan="-158.650" roty="22.570" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.030" fov="19.770" id="Element02">
+        <source url="media/img_00.png"/>
+      </image>
+      <image rotx="14.890" height="1120" tilt="0.840" stretch="0.937" pan="-196.990" roty="-18.000" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-0.020" fov="20.550" id="Element03">
+        <source url="media/img_01.png"/>
+      </image>
+      <image rotx="15.450" height="1120" tilt="0.940" stretch="0.956" pan="-19.670" roty="-18.550" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="0.030" fov="18.820" id="Element04">
+        <source url="media/img_06.png"/>
+      </image>
+      <image rotx="16.960" height="1120" tilt="0.950" stretch="0.964" pan="15.040" roty="16.280" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-0.330" fov="19.690" id="Element05">
+        <source url="media/img_03.png"/>
+      </image>
+      <image rotx="16.960" height="1120" tilt="0.880" stretch="0.964" pan="-704.960" roty="16.280" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-0.330" fov="19.690" id="Element05">
+        <source url="media/img_03.png"/>
+      </image>
+      <image rotx="15.450" height="1120" tilt="0.940" stretch="0.956" pan="-19.660" roty="-18.550" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="0.030" fov="18.820" id="Element04">
+        <source url="media/img_06.png"/>
+      </image>
+      <image rotx="5.728" height="1280" tilt="6.845" stretch="1.136" pan="89.769" roty="-0.835" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.055" fov="13.655" id="Element06">
+        <source url="media/img_07.png"/>
+      </image>
+      <image rotx="3.515" height="1120" tilt="4.565" stretch="1.287" pan="107.004" roty="-5.206" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.317" fov="10.320" id="Element07">
+        <source url="media/img_02.png"/>
+      </image>
+      <image rotx="4.726" height="1920" tilt="4.669" stretch="0.879" pan="71.207" roty="-4.593" width="1281" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="0.364" fov="10.416" id="Element08">
+        <source url="media/img_05.jpg"/>
+      </image>
+      <image rotx="-2.490" height="1120" tilt="-11.430" stretch="1.251" pan="117.150" roty="-29.710" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-3.150" fov="4.620" id="Element09">
+        <source url="media/-_.png"/>
+      </image>
+      <image rotx="1.160" height="1278" tilt="-11.130" stretch="1.908" pan="60.380" roty="28.230" width="1920" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="1.560" fov="4.540" id="Element10">
+        <source url="media/-_-2.png"/>
+      </image>
+      <image rotx="-16.133" height="753" tilt="-107.941" stretch="0.621" pan="95.663" roty="-1.499" width="428" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="5.537" fov="58.750" id="Element11">
+        <source url="media/image.png"/>
+      </image>
+      <sound keep="1" loop="0" level="0.500" url="media/skin_snd_13030195_MotionElements_in-the-moment-of.mp3" id="13030195_MotionElements_in-the-moment-of" mode="7"/>
+    </media>
+    <transition blendtime="1" enabled="1" zoomin="0" zoomafteroutfov="40" type="crossdissolve" zoomout="0" softedge="0" delay="none" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" zoomcentercursor="1" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" contextvr="1" contextprojections="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="2000" levelingpitch="0" overlap="1" width="2000" levelbiashidpi="1.000" levelingroll="0">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="120" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" fovstereographic="330" pan="360"/>
+    </view>
+    <userdata author="" datetime="" comment="" nodeid="node3" latitude="" copyright="" customnodeid="" source="" title="3" description="" tags="공간3" longitude="" info="" heading="0"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="1">
+      <label wordwrap="1" enabled="1" backgroundalpha="1" border="1" borderradius="1" height="20" backgroundcolor="0xffffff" background="1" width="180" textalpha="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
+      <hotspot title="2" description="" skinid="ht_node" url="{node2}" tilt="-29.95" target="" id="Point01" pan="-179.5"/>
+      <hotspot title="" description="" skinid="ht_image" url="images/re-4.png" tilt="-31.23" target="" id="Point03" pan="-54.65"/>
+      <hotspot title="" description="" skinid="ht_image" url="images/re.png" tilt="-33.07" target="" id="Point02" pan="-308"/>
+    </hotspots>
+    <media>
+      <image rotx="-15.610" height="753" tilt="-4.860" stretch="1.074" pan="179.730" roty="-3.520" width="428" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-0.990" fov="4.010" id="Element01">
+        <source url="media/re-1.png"/>
+      </image>
+      <image rotx="0.322" height="1120" tilt="-9.952" stretch="0.951" pan="-141.466" roty="-51.371" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-12.359" fov="12.534" id="Element02">
+        <source url="media/img_06.png"/>
+      </image>
+      <image rotx="0.606" height="1120" tilt="-13.525" stretch="0.964" pan="-122.787" roty="-31.263" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="-8.459" fov="16.624" id="Element03">
+        <source url="media/img_03.png"/>
+      </image>
+      <image rotx="-0.028" height="1120" tilt="-10.124" stretch="0.934" pan="143.298" roty="53.419" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="13.035" fov="13.072" id="Element04">
+        <source url="media/img_00.png"/>
+      </image>
+      <image rotx="-0.387" height="1120" tilt="-14.036" stretch="0.951" pan="123.091" roty="32.796" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="8.949" fov="17.628" id="Element05">
+        <source url="media/img_01.png"/>
+      </image>
+      <image rotx="3.160" height="1280" tilt="2.950" stretch="1.131" pan="-0.340" roty="-0.820" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-0.060" fov="18.370" id="Element06">
+        <source url="media/img_07.png"/>
+      </image>
+      <image rotx="3.160" height="1280" tilt="2.940" stretch="1.131" pan="-360.340" roty="-0.820" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-0.060" fov="18.370" id="Element06">
+        <source url="media/img_07.png"/>
+      </image>
+      <image rotx="-6.696" height="1120" tilt="-6.040" stretch="1.299" pan="29.072" roty="8.043" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="0.873" fov="16.819" id="Element07">
+        <source url="media/img_02.png"/>
+      </image>
+      <image rotx="-6.696" height="1120" tilt="-6.060" stretch="1.299" pan="-330.890" roty="8.043" width="1094" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="0.873" fov="16.819" id="Element07">
+        <source url="media/img_02.png"/>
+      </image>
+      <image rotx="-6.100" height="1920" tilt="-5.900" stretch="0.888" pan="-32.030" roty="-14.340" width="1281" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-1.590" fov="16.890" id="Element08">
+        <source url="media/img_05.jpg"/>
+      </image>
+      <image rotx="-6.100" height="1920" tilt="-5.900" stretch="0.888" pan="-32.020" roty="-14.340" width="1281" popbackmode="0" clickmode="1" hidepinned="0" handcursor="1" rotz="-1.590" fov="16.890" id="Element08">
+        <source url="media/img_05.jpg"/>
+      </image>
+      <image rotx="-8.650" height="1120" tilt="-33.130" stretch="1.377" pan="51.980" roty="6.150" width="1094" popbackmode="0" clickmode="0" hidepinned="0" handcursor="1" rotz="6.220" fov="6.040" id="Element09">
+        <source url="media/-_.png"/>
+      </image>
+      <image rotx="-12.700" height="1278" tilt="-31.290" stretch="1.999" pan="-54.730" roty="-28.090" width="1920" popbackmode="0" clickmode="0" hidepinned="0" handcursor="1" rotz="-10.620" fov="6.170" id="Element10">
+        <source url="media/-_-1.png"/>
+      </image>
+      <image rotx="133.363" height="753" tilt="-43.380" stretch="1.093" pan="-179.094" roty="-179.219" width="428" popbackmode="0" clickmode="0" hidepinned="0" handcursor="0" rotz="1.150" fov="33.145" id="Element11">
+        <source url="media/image.png"/>
+      </image>
+      <sound keep="1" loop="0" level="0.500" url="media/skin_snd_13030195_MotionElements_in-the-moment-of.mp3" id="13030195_MotionElements_in-the-moment-of" mode="7"/>
+    </media>
+    <transition blendtime="1" enabled="1" zoomin="0" zoomafteroutfov="40" type="crossdissolve" zoomout="0" softedge="0" delay="none" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="40" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" zoomcentercursor="1" lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" simulatemass="1" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" contextvr="1" contextprojections="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" title="" description="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
